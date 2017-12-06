@@ -1,10 +1,10 @@
 仍然是按照教程做的一个有三关的吃豆子游戏，这个游戏比较简单创建的是win32应用程序，调用了GDI绘图库。玩家吃完地图内全部豆子则胜利，地图内安放4个干扰小人，被干扰小人吃掉则游戏结束。
 ### 游戏结果：
-关卡1：
+关卡1：<br>
 ![这里写图片描述](http://img.blog.csdn.net/20171206104803772?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQvdTAxMzk0ODAxMA==/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/SouthEast)<br>
-关卡2：
+关卡2：<br>
 ![这里写图片描述](http://img.blog.csdn.net/20171206104930596?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQvdTAxMzk0ODAxMA==/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/SouthEast)<br>
-关卡3：
+关卡3：<br>
 ![这里写图片描述](http://img.blog.csdn.net/20171206104944277?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQvdTAxMzk0ODAxMA==/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/SouthEast)
 ### 框架结构
 ![这里写图片描述](http://img.blog.csdn.net/20171206104400941?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQvdTAxMzk0ODAxMA==/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/SouthEast)<br>

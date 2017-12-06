@@ -24,6 +24,6 @@ public:
 	void DrawMap(HDC &memDC);		//绘制地图
 	void DrawPeas(HDC &hdc);	//绘制豆子
 	friend class GObject;	//允许物体类使用直线的起点和终点信息做碰撞检测
-	friend class PacMan;	//允许大嘴访问豆子地图
+	friend class PacManPlayer;	//允许大嘴访问豆子地图
 };
 

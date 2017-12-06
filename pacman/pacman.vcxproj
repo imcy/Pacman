@@ -139,6 +139,7 @@
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="GMap.h" />
+    <ClInclude Include="GObject.h" />
     <ClInclude Include="pacman.h" />
     <ClInclude Include="Resource.h" />
     <ClInclude Include="Stage_1.h" />
@@ -149,6 +150,7 @@
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="GMap.cpp" />
+    <ClCompile Include="GObject.cpp" />
     <ClCompile Include="pacman.cpp" />
     <ClCompile Include="Stage_1.cpp" />
     <ClCompile Include="Stage_2.cpp" />
